@@ -1,4 +1,5 @@
-# ex-reflection
+# ex-reflection - (Exemplos utilizando Reflection)
+
 Exemplo desenvolvido para demostrar as funcionalidade do Reflection
 
 
@@ -11,4 +12,6 @@ Exemplo desenvolvido para demostrar as funcionalidade do Reflection
 
 ----
 
-Java 14
+Requistos
+
+  * Java 14
